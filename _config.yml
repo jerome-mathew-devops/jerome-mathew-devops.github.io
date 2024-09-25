@@ -1,7 +1,7 @@
-title: Stylish Portfolio, Start Bootstrap Template by startbootstrap.com
-email: your-email@example.com
+title: Jerome-Mathew's Portfolio
+email: jeromemathew01@gmail.com
 description: ""
-author: ""
+author: "Jerome-Mathew Ngoh"
 
 plugins:
   - jekyll-seo-tag
@@ -13,6 +13,5 @@ exclude:
   - stylish-portfolio-.gif
 
 # Social Profiles
-twitter_username: ""
-github_username: ""
-facebook_username: ""
+LinkedIn: "Jerome-Mathew Ngoh"
+github_username: "jerome-mathew-devops"
